@@ -16,7 +16,7 @@ class Post
         [
             "title" => "Judul Post Kedua",
             "slug" => "judul=post-kedua",
-            "author" => "Chairil Daffa",
+            "author" => "Edelwiss",
             "body" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea labore exercitationem asperiores nisi debitis officiis doloribus nam necessitatibus, enim tempore pariatur dicta nemo quibusdam error quis aliquid optio voluptates quos quae accusamus magnam fugit. Eum accusamus voluptatibus facere et maiores dolorum adipisci assumenda repudiandae. Quia ab inventore, dolores asperiores numquam impedit? Veniam fugit voluptatum, praesentium facilis laudantium iusto voluptatem reiciendis nam corporis hic. Dolor, impedit adipisci nostrum ad illo pariatur quaerat laboriosam? Commodi laudantium, natus quia amet odio facere sint dolore nam. Hic, consequuntur adipisci earum eum aperiam quos reiciendis consectetur in dicta culpa pariatur obcaecati ipsam quibusdam ducimus cumque."
         ]
     ];
